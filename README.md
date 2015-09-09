@@ -1,3 +1,3 @@
-== Reject Option Project ==
+# Reject Option Project 
 
 $ matlab -nojvm < main.m 
